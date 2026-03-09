@@ -99,7 +99,7 @@
 
 <hr>
 
-## <p align="center">✨ Encompaassed Technologies</p>
+## <p align="center">✨ Encompassed Technologies</p>
 -   [ ] <b>JavaScript:</b>
     -   [ ] The programming language that is the magic behind the scenes that makes webpages react, calculate, and come alive. Turning static pages into conversations.
 -   [ ] <b>Browser Developer Tools:</b>
