@@ -1,5 +1,5 @@
 <!-- & This creates a banner for the ReadMe -->
-<img src="img/majestic-cherry-blossom-jade-maiden.png" alt="" width="100%" height="550">
+<img src="img/majestic-cherry-blossom-jade-maiden.png" alt="" width="100%" height="400">
 
 # <p align="center">🌸 The Console: JavaScript's Sacred Space 🌸</p>
 
